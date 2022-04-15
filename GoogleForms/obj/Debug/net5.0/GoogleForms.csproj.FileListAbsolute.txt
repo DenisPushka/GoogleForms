@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\GoogleForms.exe
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\GoogleForms.deps.json
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\GoogleForms.runtimeconfig.json
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\GoogleForms.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\GoogleForms.dll
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\ref\GoogleForms.dll
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\bin\Debug\net5.0\GoogleForms.pdb
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.AssemblyInfo.cs
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.dll
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\ref\GoogleForms.dll
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.pdb
+C:\Users\User\RiderProjects\GoogleForms\GoogleForms\obj\Debug\net5.0\GoogleForms.genruntimeconfig.cache
